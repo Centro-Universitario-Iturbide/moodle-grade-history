@@ -1,9 +1,5 @@
 # Moodle Grade History
 
-
-
-## 
-
 The purpose of this plugin is to help Schools and Universities with the Year End procedures related to saving Grades before removing all students from their current courses
 
 [https://docs.moodle.org/39/en/Year-end\_procedures](https://docs.moodle.org/39/en/Year-end_procedures)
@@ -18,7 +14,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
 
-* 
+This is still a work in progress, these are the expectations
+
 ![Add / Edit Grade](.gitbook/assets/image%20%281%29.png)
 
 ![List Grades](.gitbook/assets/image%20%282%29.png)
